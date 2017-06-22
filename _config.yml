@@ -31,8 +31,15 @@ plugins:
   - jekyll-assets
 
 jekyll-archives:
-  enabled: all
-
+  enabled:
+    - categories
+    - tags
+    - year
+  layouts:
+    year: year-archive
+    tag: tag-archive
+    category: category-archive
+    
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
