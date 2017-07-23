@@ -1,7 +1,10 @@
 ---
-layout: post
 title: What kind of computer should I buy?
-categories: beginner general
+date: 2017-07-22 00:00:00 Z
+categories:
+- beginner
+- general
+layout: post
 ---
 
 This has to be one of the most common questions asked of anyone who knows anything about computers, and nobody ever likes the answer.  

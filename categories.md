@@ -1,7 +1,7 @@
 ---
 title: Categories
-layout: page
 permalink: "/categories/"
+layout: page
 ---
 
 {% assign default_paths = site.pages | map: "path" %}

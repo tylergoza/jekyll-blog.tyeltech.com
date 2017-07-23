@@ -1,7 +1,9 @@
 ---
 title: Jekyll and AWS, creating a static site at scale
+date: 2017-06-23 00:00:00 Z
+categories:
+- intermediate
 layout: post
-categories: intermediate
 ---
 
 Using Jekyll, Amazon s3, and Amazon CloudFront to host a static site is quick, easy, and can scale at low cost.
